@@ -351,7 +351,7 @@ img {
 //==========================================================================================*/
 .main-visual {
   height: calc(100vh - 80px);
-  background-image: url(/main-visual.jpg);
+  background-image: url(./main-visual.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
